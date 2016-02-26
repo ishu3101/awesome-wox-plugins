@@ -1,2 +1,3 @@
-# awesome-wox-plugins
-A curated list of awesome Wox Plugins  
+# Awesome Wox Plugins
+
+A curated list of awesome Wox Plugins
