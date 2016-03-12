@@ -9,3 +9,4 @@ A curated list of awesome Wox Plugins
 - [Kill Process](http://www.getwox.com/plugin/21) - Easily find processes by name and kill them
 - [IP Address](http://www.getwox.com/plugin/43) - Shows your internal and external IP address
 - [URL Encode](http://www.getwox.com/plugin/24) - Encode or decode a string
+- [Timezone](http://www.getwox.com/plugin/23) - Display the current time in various cities around the world
