@@ -10,3 +10,4 @@ A curated list of awesome Wox Plugins
 - [IP Address](http://www.getwox.com/plugin/43) - Shows your internal and external IP address
 - [URL Encode](http://www.getwox.com/plugin/24) - Encode or decode a string
 - [Timezone](http://www.getwox.com/plugin/23) - Display the current time in various cities around the world
+- [OpenCMD](http://www.getwox.com/plugin/39) - Open current Windows Explorer window in Command Prompt
